@@ -28,6 +28,8 @@ Python (Pandas, Scikit-learn, XGBoost, TensorFlow/Keras, Matplotlib, Seaborn)
 
 ## Visualized Insights:
 The report comprises 5 key insights:
+![Screenshot 2025-05-21 081002](https://github.com/user-attachments/assets/7833b73b-c049-460d-9231-c912e54d2d9a)
+
 
 ### 1. High-Performing & Low-Performing Charging Stations:
 Analysis:
